@@ -359,7 +359,7 @@ ul.no-bullet {
 
 @media screen and (max-width: 992px) {
   .topnav.responsive {
-    position: fixed; 
+    position: fixed!important; 
     top: 0 !important;
   }
   .topnav.responsive .icon {
